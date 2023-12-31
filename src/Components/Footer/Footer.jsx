@@ -7,6 +7,7 @@ function Footer() {
     <div className='footer'>
         <div className="footer-logo">
             <img src={FooterLogo} alt="" />
+            
         </div>
     </div>
   )
