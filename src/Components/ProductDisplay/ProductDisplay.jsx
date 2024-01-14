@@ -37,7 +37,7 @@ function ProductDisplay(props) {
             <div className="product-display-right-price-new">{product.new_price}</div>
         </div>
         <div className="product-display-right-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas voluptatibus minima culpa. Quibusdam dignissimos laborum voluptates recusandae commodi magnam facere harum? Voluptatem facilis in dignissimos corrupti aliquid corporis autem delectus sunt, deserunt molestiae modi.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas voluptatibus minima culpa. Quibusdam dignissimos laborum voluptates recusandae commodi magnam facere harum? Voluptatem facilis in dignissimos corrupti aliquid corporis autem delectus sunt, deserunt molestiae.
         </div>
       </div>
     </div>
