@@ -42,6 +42,7 @@ function ProductDisplay(props) {
       </div>
     </div>
   );
+  
 }
 
 export default ProductDisplay;
